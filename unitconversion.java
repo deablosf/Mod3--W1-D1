@@ -1,4 +1,4 @@
-public class unit conversion{
+public class unitconversion{
     public static void main(String[]args){
         double meterConverter = 0.0254;
         int inches = 25;
