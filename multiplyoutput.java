@@ -1,4 +1,4 @@
-public class Meter{
+public class multiplyoutput{
     public static void main(String[]args){
         double meterConverter = 0.0254;
         int inches = 25;
